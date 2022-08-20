@@ -9,6 +9,7 @@
 then full info about ur bot ,like it's name , language and so on.
 * now your chatbot is ready and waiting for u to programming it to be able to respond to the user instead of you!
 * then u have to create action and set the desired response to that action [ visit the website to learn more](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-actions-templates)
+* after finishing all tasks go to environment to change its look and to capture the final code to put it in your web page code
 
 
 ### The result:
